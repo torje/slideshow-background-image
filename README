@@ -1,0 +1,9 @@
+Since I am too n00b to actually understand how to use the other tools to make a slideshow background I had to write it myself. 
+
+This script requires "feh" installed, should be in all repositories. 
+
+Put the pictures you want in the slideshow in a folder containing nothing else. 
+Set this path in the $backgrounddirectory variable. 
+choose how long each picture is shown with the $sleeptimer variable. 
+
+
